@@ -1,0 +1,1 @@
+/Users/jimhurd/dev/experiments/mddocx/bin/Release/net6.0/publish/web.config
